@@ -55,7 +55,7 @@ $(document).ready(function(){
 <h1><div class id="gif">
  <img src="output-3.gif" style="max-width:100%;height:auto;">
 </div>
-</h1>m
+</h1>
 <form autocomplete="off" action="" method="post">	
 
 <input type="text" autocomplete="off"/>
